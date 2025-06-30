@@ -1,3 +1,5 @@
+# En este repositorio se encuentra el código de python que cree al seguir las instrucciones de la evaluación sumativa IV de Introduccion a la Programación y Robótica. 
+# El pseudocódigo es el siguiente:
 ```
 // -------------------------------
 // Constantes de tipos de celda
