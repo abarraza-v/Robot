@@ -16,7 +16,7 @@ El comportamiento del robot se basa exclusivamente en lógica programada, lo que
 
 ---
 
-## 🧠 Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - **Python 3.10+**
 - **NumPy**: para el manejo de la matriz del almacén.
